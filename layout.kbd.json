@@ -20,7 +20,7 @@
       "w": 2
     },
     "Backspace\n\n\n\nFn7",
-    "Insert\n\n\n\nnumlck"
+    "Insert\n\n\n\nNum Lock"
   ],
   [
     {
@@ -59,10 +59,14 @@
       "a": 0
     },
     "P\n\n\n\nPSc",
-    "{\n[\n\n\nScrLck",
-    "}\n]\n\n\nPus Brk",
+    "{\n[\n\n\nScroll Lock",
+    {
+      "a": 4
+    },
+    "}\n]",
     {
       "x": 0.25,
+      "a": 0,
       "w": 1.25,
       "h": 2,
       "w2": 1.5,
@@ -125,7 +129,7 @@
     "M\n\n\n\nVolUp",
     "<\n,\n\n\nMute",
     ">\n.\n\n\nEnd",
-    "?\n/\n\n\nPqDn",
+    "?\n/\n\n\nPgDn",
     {
       "a": 4,
       "w": 1.75
